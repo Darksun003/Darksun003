@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Darksun003/Darksun003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
