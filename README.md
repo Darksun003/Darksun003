@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 
 | Company                        | Position             | Duration                   |
 |-------------------------------|----------------------|----------------------------|
-| **Labmentix Private Ltd**      | AIML Intern          | 15 Aug 2025 – *15 Feb 2025*    |
+| **Labmentix Private Ltd**      | AIML Intern          | 15 Aug 2025 – 15 Feb 2025      |
 | **Ozibook Technologies**       | Data Analyst Intern  | 11 Dec 2024 – 11 Mar 2025  |
 | **Evoastra Ventures Pvt Ltd**  | Data Science Intern  | 1 Month Internship         |
